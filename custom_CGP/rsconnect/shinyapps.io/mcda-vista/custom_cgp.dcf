@@ -1,0 +1,13 @@
+name: custom_cgp
+title:
+username: mcda-vista
+account: mcda-vista
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16554113
+bundleId: 11589733
+url: https://mcda-vista.shinyapps.io/custom_cgp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: config/survey_data.csv
