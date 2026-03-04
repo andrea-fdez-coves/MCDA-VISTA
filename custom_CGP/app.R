@@ -6,7 +6,7 @@
 #Inspired by:  
 # Making health economics Shiny: a tutorial (https://pubmed.ncbi.nlm.nih.gov/32904933/)
 # Cost-effectiveness of software with artificial intelligence algorithms for analysing 
-# CT brain scans in suspected stroke: an R Shiny model (Ramaekers et al., PENDING FOR PUBLICATION)
+# CT brain scans in suspected stroke: an R Shiny model (Ramaekers et al., Pending for publication)
 
 
 ##### Setup ##### 
