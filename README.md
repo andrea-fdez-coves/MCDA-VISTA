@@ -25,7 +25,7 @@ install.packages("shinydashboard")
 
 ### Two Versions Available
 1. **Empty tool**: https://mcda-vista.shinyapps.io/tool/
-2. **Customisable version** (case-specific applications): Adapt the code to your decision problem, see example at https://mcda-vista.shinyapps.io/CGP/
+2. **Customisable version** (case-specific applications): Adapt the code to your decision problem, see example at https://mcda-vista.shinyapps.io/custom_cgp/
 
 ## Usage
 Run the application:
