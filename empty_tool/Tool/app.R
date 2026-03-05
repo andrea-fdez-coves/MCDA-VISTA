@@ -1,4 +1,4 @@
-# Description: MCDA-VISTA ao=pp
+# Description: MCDA-VISTA (Value-based Interactive Shiny Tool for Appraisal)
 # Inspired by: Making health economics Shiny: a tutorial
 # Author: Andrea Fernández Coves - ORCID (0009-0000-7698-3849)
 # Publication: Pending
