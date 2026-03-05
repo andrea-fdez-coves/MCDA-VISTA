@@ -44,7 +44,7 @@ Edit `config.R` to:
 See the Supplementary Material for detailed step-by-step user guide for each tab.
 
 ## Citation
-Fernández Coves A, Ramaekers B, van Schaik L, et al. MCDA-VISTA (Value-based Interactive Shiny Tool for Appraisal): An Open-Source Platform to Support Multi-Criteria Decision Analysis and Communication in Healthcare. Pending for Publication.
+Fernández Coves A, Ramaekers B, van Schaik L, Retèl V, van Til J, Grimm S, Joore M. MCDA-VISTA (Value-based Interactive Shiny Tool for Appraisal): An Open-Source Platform to Support Multi-Criteria Decision Analysis and Communication in Healthcare. Pending for Publication.
 
 ## Support
 For any issues please contact andrea.fernandez.coves@mumc.nl
