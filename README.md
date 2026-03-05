@@ -27,11 +27,6 @@ install.packages("shinydashboard")
 1. **Empty tool**: https://mcda-vista.shinyapps.io/tool/
 2. **Customisable version** (case-specific applications): Adapt the code to your decision problem, see example at https://mcda-vista.shinyapps.io/custom_cgp/
 
-## Usage
-Run the application:
-```r
-shiny::runApp("path/to/MCDA-VISTA")
-```
 
 ## Customization
 Edit `config.R` to:
